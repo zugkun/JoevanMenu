@@ -1,3 +1,3 @@
 return {
-    ayamgorenggg", 
+    "ayamgorenggg", 
 }
